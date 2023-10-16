@@ -1,4 +1,4 @@
-![Logo Northware](https://github.com/ncs-northware/.github/assets/56229919/2cb31073-5ea7-4830-b1e5-520a244c721c)
+![Logo Github](https://github.com/ncs-northware/.github/assets/56229919/f81e2091-9aba-4571-aafc-96f151cc6f58)
 
 # Hey, this is NCS Northware
 I use this Github Organisation to manage some repos.
