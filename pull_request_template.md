@@ -1,11 +1,4 @@
----
-name: Default Pull Request
-labels: cockpit
-projects: ncs-northware/1
----
-
 ## Beschreibung
-
 
 ### Referenzen
 Dieser Pull Request löst den Issue https://github.com/ncs-northware/northware-development/#ISSUE-NUMBER
