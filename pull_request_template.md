@@ -1,7 +1,7 @@
 ## Beschreibung
 
 ### Referenzen
-Dieser Pull Request löst den Issue https://github.com/ncs-northware/northware-development/#ISSUE-NUMBER
+Dieser Pull Request löst den Issue ncs-northware/northware-development/#ISSUE-NUMBER
 
 ### PR Einstellungen
 Bitte nehme noch folgende Einstellungen vor:
